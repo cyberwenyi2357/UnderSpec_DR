@@ -1,5 +1,6 @@
-"""Collect ResearchQA queries, query variants, deep research agent answers and ambiguity-judge results
-from the ResearchQA working repo into data/.
+"""Collect ResearchQA queries, query variants, deep research agent answers, ambiguity-judge results and
+Gemini 3.1 Pro Preview rubric-coverage scores from the ResearchQA working repo into data/, and copy the
+Gemini-judge analysis outputs into analysis/.
 
 Usage:
     python build.py --src /path/to/ResearchQA
@@ -7,10 +8,16 @@ Usage:
 
 import argparse
 import json
+import shutil
 from collections import Counter
 from pathlib import Path
 
-OUT = Path(__file__).resolve().parent / "data"
+REPO = Path(__file__).resolve().parent
+OUT = REPO / "data"
+GEMINI_DIR = "results_using_Gemini3.1ProPreview_as_judge"
+# output model name -> (subfolder, file suffix) of the Gemini-judge coverage scores
+SCORE_FILES = {"gpt-5.4": ("gpt 5.4", "5.4_sample500_batch"), "dr-tulu": ("qwen", "qwen_sample500"),
+               "tongyi": ("tongyi", "tongyi_sample500")}
 
 VARIANTS = ["query", "fully_underspecified", "without_scope", "without_term", "without_preference"]
 # output name -> suffix used in the ResearchQA file names
@@ -68,6 +75,13 @@ def main():
             write_jsonl(OUT / "answers" / model / f"{variant}.jsonl",
                         [{"id": i, "answer": a["answer"]} for i, a in sorted(answers.items())])
             judged = {r["id"]: r for r in read_jsonl(src / "results" / "ambiguity_judge" / f"{variant}_{suffix}.jsonl")}
+            folder, score_suffix = SCORE_FILES[model]
+            scores = json.loads((src / GEMINI_DIR / folder / f"results_{variant}_{score_suffix}.json")
+                                .read_text(encoding="utf-8"))
+            write_jsonl(OUT / "coverage_scores" / model / f"{variant}.jsonl",
+                        [{"id": i, "coverage_score": r["coverage_score"], "rubric_judges": r["rubric_judges"]}
+                         for i, r in sorted(scores.items())])
+            stats[(model, variant, "scored")] += len(scores)
             write_jsonl(OUT / "ambiguity_judge" / model / f"{variant}.jsonl",
                         [{"id": i, "category": r["category"], "evidence": r["evidence"], "error": r.get("error")}
                          for i, r in sorted(judged.items())])
@@ -75,9 +89,19 @@ def main():
                 j = judged.get(i, {})
                 combined.append({"id": i, "model": model, "variant": variant, "query": texts[variant].get(i),
                                  "original_query": texts["query"].get(i), "answer": a["answer"],
-                                 "ambiguity_category": j.get("category"), "ambiguity_evidence": j.get("evidence")})
+                                 "ambiguity_category": j.get("category"), "ambiguity_evidence": j.get("evidence"),
+                                 "coverage_score": scores.get(i, {}).get("coverage_score")})
                 stats[(model, variant, "judged" if j.get("category") else "not judged")] += 1
     write_jsonl(OUT / "combined.jsonl", combined)
+
+    # Analysis outputs of the Gemini-judge study (statistics, figures, case extracts), copied as is.
+    # The per-item scores in the model subfolders are already normalized into data/coverage_scores/.
+    dest = REPO / "analysis" / GEMINI_DIR
+    if dest.exists():
+        shutil.rmtree(dest)
+    shutil.copytree(src / GEMINI_DIR, dest,
+                    ignore=lambda d, names: [n for n in names if n == ".DS_Store"
+                                             or (Path(d) == src / GEMINI_DIR and (Path(d) / n).is_dir())])
 
     print(f"queries: {len(queries)}")
     for v in VARIANTS:

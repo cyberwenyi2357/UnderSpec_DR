@@ -1,0 +1,3894 @@
+[
+  {
+    "system": "tongyi",
+    "variant": "fully_underspecified",
+    "id": "174539438241025042-s3",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain that PCK involves understanding which specific concepts within catchment hydrology are difficult for learners?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how PCK helps in selecting effective teaching strategies tailored to the challenges in catchment hydrology?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail how specific teaching strategies within PCK address particular content challenges in catchment hydrology?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain how Pedagogical Content Knowledge (PCK) specifically addresses the unique content challenges in catchment hydrology?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include examples of common content-specific difficulties teachers face when teaching catchment hydrology?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss how PCK helps teachers design effective instructional strategies for catchment hydrology topics?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the role of PCK in linking theoretical hydrology concepts to practical teaching scenarios?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the relationship between PCK components and the practical teaching strategies used for catchment hydrology?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "tongyi",
+    "variant": "fully_underspecified",
+    "id": "174539438443882596-s2",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response identify high investment costs as a significant financial challenge in microgrid implementation?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address the absence of clear legislation and regulatory frameworks affecting microgrid licensing and grid connection?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the financial challenges of microgrid implementation in depth, including both investment costs and economic barriers?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss regulatory barriers that specifically affect microgrid deployment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention challenges related to the complexity of regulatory compliance for microgrids?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address the impact of investment costs on the scalability of microgrids?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the specific financial challenges related to high investment costs in microgrid implementation?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of regulatory barriers and their impact on microgrid deployment?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "tongyi",
+    "variant": "fully_underspecified",
+    "id": "174539436220701027-s9",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response list specific genes associated with non-syndromic autosomal recessive intellectual disability (NS-ARID)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the functions of the proteins encoded by these NS-ARID-associated genes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the clinical effects or phenotypic outcomes of mutations in these genes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include information on how mutations affect neural development or neural functions?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the molecular and cellular functions of each gene’s encoded protein related to NS-ARID?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response extensively describe the clinical consequences and severity spectrum of mutations in these NS-ARID-associated genes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response differentiate between genes causing NS-ARID and those involved in syndromic forms of intellectual disability?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Molinari et al. (2008) (title: Oligosaccharyltransferase-subunit mutations in nonsyndromic mental retardation) to explain the role of TUSC3 in N-linked protein glycosylation and its link to intellectual disability?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "tongyi",
+    "variant": "fully_underspecified",
+    "id": "174539435512233056-s11",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a detailed, step-by-step description of the LOM process starting from feeding the material sheet to building the complete 3D object?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the type of materials commonly used as sheets in LOM and their typical thickness?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the mechanism of cutting each sheet layer using a computer-controlled laser?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention how bonding between successive layers is achieved, such as by hot-melt adhesive and hot pressing rollers?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the core principles of LOM in depth, explaining how the layering and bonding mechanisms work together to form the 3D object?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed step-by-step explanation of the LOM manufacturing process, including material feed, cutting, layer lowering, and repetition until object completion?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a clear explanation of the fundamental principles underlying laminated object manufacturing (LOM)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the U.S. Patent 4752352 (title: Apparatus and method for forming an integral object from laminations) to explain the fundamental principle of layering and bonding thin sheets in LOM?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "tongyi",
+    "variant": "fully_underspecified",
+    "id": "174539436220529172-s6",
+    "result": {
+      "coverage_score": 0.08333333333333333,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include specific remission rates for early follow-up periods such as within 6 months, 1 year, and 2 years?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide remission rates documented for longer-term follow-ups at 3, 5, and 10 years?",
+          "score": "Moderately"
+        },
+        {
+          "rubric": "Does the response mention studies or reviews that report cumulative remission rates over several years?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the remission rates reported at multiple specific time points (e.g., 6 months, 1 year, 3 years, 5 years, 10 years) to provide a comprehensive timeline of disease remission?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Kozel et al. (2001) (title: Natural course of physical and chronic urticaria and angioedema in 220 patients) that provides remission rates within the first year and longer-term follow-ups for chronic spontaneous urticaria?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Valk et al. (2002) (title: The natural history of chronic urticaria and angioedema in patients visiting a tertiary referral centre) that reports remission rates at multiple time points including 5 and 10 years?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "tongyi",
+    "variant": "fully_underspecified",
+    "id": "174539435714017536-s28",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response specify the number of primary marine forest projects currently active in South Korea?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify the main institutions or organizations responsible for these marine forest projects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the specific objectives or goals of each marine forest project mentioned?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss any particular techniques or methods used in these projects, such as seed bank development or substrate improvement?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the geographic locations or specific coastal areas where these projects are being conducted?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the ecological and socio-economic impacts targeted by these marine forest projects in South Korea?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "qwen",
+    "variant": "fully_underspecified",
+    "id": "174539437429693280-s11",
+    "result": {
+      "coverage_score": 0.08333333333333333,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include evidence from randomized controlled trials (RCTs) supporting the anti-inflammatory effects of chondroitin sulfate (CS)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide findings from clinical studies showing cartilage-protective effects of CS?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention specific RCT results that showed improvements in pain or function with GS treatment?",
+          "score": "Moderately"
+        },
+        {
+          "rubric": "Does the response explore the anti-inflammatory effects of chondroitin sulfate and glucosamine sulfate in detail, including mechanisms and clinical evidence?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key experimental findings demonstrating the anti-inflammatory effects of chondroitin sulfate and glucosamine sulfate?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss molecular or cellular mechanisms underlying their therapeutic effects?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438241025042-s3",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain that PCK involves understanding which specific concepts within catchment hydrology are difficult for learners?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how PCK helps in selecting effective teaching strategies tailored to the challenges in catchment hydrology?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail how specific teaching strategies within PCK address particular content challenges in catchment hydrology?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain how Pedagogical Content Knowledge (PCK) specifically addresses the unique content challenges in catchment hydrology?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include examples of common content-specific difficulties teachers face when teaching catchment hydrology?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss how PCK helps teachers design effective instructional strategies for catchment hydrology topics?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the role of PCK in linking theoretical hydrology concepts to practical teaching scenarios?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the relationship between PCK components and the practical teaching strategies used for catchment hydrology?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539439257318810-s8",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include specific HIV prevalence ranges among TB patients for different regions of Sub-Saharan Africa (Southern, Central, Eastern, Western)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide average HIV prevalence percentages for each of these regions?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss temporal trends in HIV prevalence among TB patients comparing periods before 2000 and after 2010?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the regional differences in HIV prevalence among TB patients in Sub-Saharan Africa in depth, providing detailed variations and ranges?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include comparisons of HIV prevalence rates among tuberculosis patients across multiple regions in Sub-Saharan Africa?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed temporal analysis of how HIV prevalence among tuberculosis patients has changed over multiple years or decades?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite on HIV prevalence in Zambia by Chanda-Kapata et al. (2017) (title: The prevalence of HIV among adults with pulmonary TB at a population level in Zambia) to support the statement about the highest regional prevalence in Southern Africa reaching up to 72%?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438241474436-s12",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a direct comparison of energy consumption results between the material indicator method and the accurate calculation method?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the differences in precision or adequacy between the material indicator method and the accurate calculation method?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the proportionality or ratio discrepancies in results obtained from the two methods?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the comparative accuracy and limitations of the material indicator method versus the accurate calculation method?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss differences in the scope or boundaries considered by each method when evaluating environmental impact?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the typical use cases or contexts where one method is preferred over the other?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the computational complexity or data requirements of each method?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response thoroughly analyze the advantages and limitations of each method in the context of energy consumption and environmental impact evaluation?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438444014393-s2",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response describe age-specific screening recommendations for women without HIV, including testing methods and intervals?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain how screening guidelines differ for women living with HIV in terms of starting age, frequency, and methods?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the typical age ranges at which screening begins and ends for both HIV-negative and HIV-positive women?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the specific screening intervals recommended for different age groups and HIV statuses?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the types of screening methods recommended for various populations based on age and HIV status?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response specify how screening methods differ based on HIV status?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight any age-specific modifications in guidelines for women living with HIV?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the types of tests (e.g., HPV testing, Pap smear) preferred for various age and HIV status categories?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437127211152-s28",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include specific comparisons of health-related quality of life (HRQoL) domains between former Division I athletes and non-Division I college students?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention particular HRQoL domains where former Division I athletes report worse outcomes (e.g., physical function, depression, fatigue)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response indicate any HRQoL domains where there are no significant differences between the two groups (e.g., anxiety, social role satisfaction)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the types and prevalence of injuries experienced by former Division I athletes compared to non-Division I students?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide information on the prevalence of injuries in both former Division I athletes and active non-Division I students?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss whether former Division I athletes experience long-term health effects related to their athletic participation?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436825243673-s18",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include information about the dosage ranges of Licorice Flavonoid Oil used in the randomized controlled trials?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response report on the statistical significance of weight loss results at different LFO dosage levels?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the dose-dependent effects of Licorice Flavonoid Oil on weight loss outcomes as observed in the randomized controlled trials?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the clinical significance versus statistical significance of weight loss findings across different LFO dosages?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Tominaga et al. (2006) (title: Licorice flavonoid oil effects body weight loss by reduction of body fat mass in overweight subjects) that reports statistically significant but clinically limited weight loss effects at higher dosages of Licorice Flavonoid Oil?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Tominaga et al. (2009) (title: Licorice flavonoid oil reduces total body fat and visceral fat in overweight subjects: A randomized, double-blind, placebo-controlled study) that supports the findings on dosage-dependent weight loss effects of Licorice Flavonoid Oil?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a summary of the weight loss effects observed at different dosages of Licorice Flavonoid Oil in randomized controlled trials?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the clinical significance of these weight loss effects in terms of health outcomes or patient benefits?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436825284295-s4",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include findings from multiple randomized controlled trials comparing different self-weighing frequencies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention that self-weighing frequency does not negatively affect mood in overweight adults?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response indicate that depression symptoms remain stable or improve regardless of weighing frequency?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response summarize evidence on the impact of self-weighing frequency on depression symptoms in overweight adults?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare outcomes between frequent self-weighing and less frequent or no self-weighing groups?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss whether self-weighing frequency has any adverse psychological effects reported in the trials?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the study by VanWormer et al. (2009) (title: Self-weighing promotes weight loss for obese adults) that includes findings on psychological effects such as mood changes related to self-weighing frequency?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435713904770-s27",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain how the size of metallic particles relative to their skin depth affects the occurrence and intensity of microwave-induced discharge?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the relationship between increasing particle size and discharge intensity, including any limits?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss how the length of metal wires influences the likelihood of microwave-induced discharge?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the relationship between particle size and microwave-induced discharge intensity in depth, including underlying physical reasons?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention any threshold sizes or lengths that significantly change discharge behavior?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the relationship between metal wire length and the probability of microwave-induced discharge?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435612597104-s4",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a description of the typical precursors used in PECVD for TiO₂ film deposition?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the role of plasma generation, including the configuration of electrodes and the operating frequency?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how reactive species are formed and contribute to film deposition?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a clear description of the main components involved in the PECVD system for TiO₂ film deposition?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the fundamental operating principles of PECVD relevant to TiO₂ film growth?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the role of precursor gases and plasma in the deposition process?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention typical process parameters (e.g., temperature, pressure, power) that influence TiO₂ film quality?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the chemical and physical mechanisms involved in the PECVD process for TiO₂ film deposition in detail?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437936819847-s11",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include examples of studies that report splitting potassium application as more effective for tuber yield?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention studies that found no significant difference among various potassium application methods on yield and quality?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address the inconsistency or variability of potassium application timing effects on potato yield and quality across studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the different potassium application methods in depth to explain their impact on both potato tuber yield and quality?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide detailed comparisons among multiple experimental findings to highlight the variability or consistency in results related to potassium application timing and method?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on how different potassium application methods affect potato tuber yield?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the impact of potassium application methods on the quality attributes of potato tubers?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare the effectiveness of various potassium application methods based on experimental study results?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438039016344-s1",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain the mechanism of enzymatic degradation of hyaluronan, including the role of hyaluronidases and the specificity of cleavage sites?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the non-enzymatic degradation mechanism involving reactive oxygen species and random chain breakage?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the differences in the chemical nature of the degradation products resulting from enzymatic versus non-enzymatic pathways?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention how the cleavage specificity differs between enzymatic and non-enzymatic degradation?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the enzymatic and non-enzymatic degradation mechanisms in detail to clarify their distinct biochemical processes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response go in depth about the chemical nature and structural characteristics of the resulting degradation products from both pathways?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare the types of degradation products formed by enzymatic versus non-enzymatic processes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain how the structural changes in hyaluronan differ between enzymatic and non-enzymatic degradation?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436421919400-s0",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include specific SNPs in the APOA5 gene such as -1131T > C, c56C > G, and c553G > T associated with metabolic syndrome?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how APOA5 SNPs affect metabolic syndrome susceptibility by altering lipid metabolism (e.g., triglyceride and HDL cholesterol levels)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the biological function of the APOA5 protein and its role in regulating plasma lipids related to metabolic syndrome?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the mechanisms by which APOA5 SNPs affect lipid metabolism and contribute to metabolic syndrome in detail?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the meta-analysis paper by Liu et al. (2012) (title: Apolipoprotein a5 gene polymorphism and risk for metabolic syndrome: a meta-analysis) to support the statement that common APOA5 SNPs like -1131T > C are significantly associated with metabolic syndrome components?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on how specific SNPs in the APOA5 gene influence the risk of developing metabolic syndrome?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the impact of APOA5 SNPs on individual components of metabolic syndrome, such as triglyceride levels, HDL cholesterol, or insulin resistance?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438443882596-s2",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response identify high investment costs as a significant financial challenge in microgrid implementation?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address the absence of clear legislation and regulatory frameworks affecting microgrid licensing and grid connection?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the financial challenges of microgrid implementation in depth, including both investment costs and economic barriers?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss regulatory barriers that specifically affect microgrid deployment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention challenges related to the complexity of regulatory compliance for microgrids?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address the impact of investment costs on the scalability of microgrids?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the specific financial challenges related to high investment costs in microgrid implementation?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of regulatory barriers and their impact on microgrid deployment?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438443887555-s5",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response describe how the Comenius program integrates energy topics into multiple school subjects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include examples of interactive or experimental teaching tools used to engage students in energy literacy?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight that these teaching tools are designed with clear educational goals aimed at student engagement?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the role and variety of educational tools used within the program to foster energy literacy?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key examples of how the Comenius program integrates educational tools to enhance energy literacy?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe specific student engagement methods used within the Comenius program?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the role of collaboration between schools or countries in the Comenius program for fostering energy literacy?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the pedagogical methods used within the Comenius program to foster energy literacy?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438443888610-s12",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include specific TCO values for hydrogen buses at different years between 2015 and 2035?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify key factors influencing the TCO trend such as electricity costs and investment costs?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the main factors driving the changes in TCO for hydrogen buses between 2015 and 2035?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the impact of technological advancements on the TCO trend?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the role of fuel costs and infrastructure development in influencing TCO?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth analysis of the cost components contributing to the total cost of ownership (TCO) for hydrogen buses over the specified period?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Żabińska Kołodziejski et al. (2022) (title: Possibilities of using hydrogen buses in urban transport) that supports the statement about the current and projected TCO differences between hydrogen and diesel buses?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438342059413-s2",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response describe the distinct stages of the Mevalonate pathway relevant to Ganoderma triterpenoid biosynthesis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify the key enzymes involved in the Mevalonate pathway specific to Ganoderma species?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the distinct stages of the Mevalonate pathway in Ganoderma in depth, including detailed enzymatic steps and intermediates?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the roles and mechanisms of key enzymes such as HMGR, FPPs, SQS, and lanosterol synthase in the biosynthesis process?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify the key enzymes involved in each stage of the Mevalonate pathway for ganoderic acid production?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain how each stage and enzyme specifically contributes to the synthesis of ganoderic acid?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss regulatory mechanisms affecting the activity of these enzymes in Ganoderma?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437937625840-s22",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain the general principle of how chronoamperometry measures antioxidant activity using a step change in potential at the working electrode?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the recording of current over time to produce a chronoamperogram as the measurement output?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention how the oxidation of antioxidants generates the recorded faradaic current signal at a fixed potential?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an example of a type of working electrode used for antioxidant measurement, such as a glassy carbon electrode modified with specific materials?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail how modifications of the working electrode (e.g., with nanomaterials or polymers) enhance the chronoamperometric detection of antioxidants?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the role and characteristics of the working electrode in chronoamperometry for antioxidant assays?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss how the chronoamperometric current relates to antioxidant concentration or activity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the role and selection criteria of different working electrodes in chronoamperometric antioxidant measurements?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436623653587-s19",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response state that meta-analyses show inconsistent findings regarding sTM levels across COVID-19 severity and patient groups?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention specific studies reporting both low and high sTM values in different patient severity groups?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include that some studies find a significant correlation between sTM levels and clinical severity scores like SOFA?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe studies that find no significant differences in sTM levels across COVID-19 severity categories and healthy controls?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the inconsistencies in reported sTM levels across different studies and patient groups?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539439258128484-s6",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include information about positive correlations between the Happiness Measure and various happiness and well-being scales?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention negative correlations between the Happiness Measure and depression or unhappiness scales?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response report that these validity findings have been replicated across diverse samples and independently confirmed by other researchers?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key studies that have demonstrated convergent validity of the Happiness Measure through correlations with established well-being instruments?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss comparisons of the Happiness Measure with various emotion assessment tools to establish convergent validity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight longitudinal research that tracks the stability of convergent validity over time?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the Diener et al. (1985) paper (title: The Satisfaction With Life Scale) that compares the Happiness Measure with life satisfaction and affective well-being scales to establish convergent validity?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437328318561-s7",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include quantitative measures (e.g., standardized mean difference and risk ratio) demonstrating the toxic effects of ibogaine on motor function?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include specific toxic effects of ibogaine on motor function observed in preclinical studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide evidence from animal models or in vitro studies supporting these toxic effects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the dose-dependency of ibogaine’s toxic effects on motor function?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the neurobiological mechanisms proposed to underlie ibogaine-induced motor toxicity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Chen et al. (1996) (title: Ibogaine block of the NMDA receptor: in vitro and in vivo studies) to back the mechanistic explanation of ibogaine’s neurotoxic effects related to motor impairment?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436925474575-s1",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain the role of PD-1 and its ligands in maintaining immune tolerance through limiting T-cell expansion and function?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the feedback mechanism by which PD-1 and its ligands regulate T-cell responses?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the molecular mechanisms by which PD-1 and its ligands regulate T-cell activation and tolerance?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how PD-1 signaling affects T-cell activation and exhaustion?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the impact of PD-1/ligand interactions on peripheral versus central tolerance?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the differences in function between PD-L1 and PD-L2 ligands?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of how PD-1 signaling modulates different stages of T-cell activation and function?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the work by Keir et al. (2008) (title: PD-1 and its ligands in tolerance and immunity) that provides a comprehensive review of how PD-1 signaling modulates T-cell responses and maintains peripheral tolerance?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436925478609-s30",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include information about IL-1β production levels in glioblastoma multiforme cells?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the binding of IL-1β to its receptor and the activation of downstream signaling pathways?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the involvement of NF-κB and MAPK pathways in IL-1β mediated signaling?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the specific signaling pathways activated by IL-1β that contribute to tumorigenic signaling in glioblastoma multiforme?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of how IL-1β influences cell proliferation mechanisms in glioblastoma multiforme?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the mechanisms by which IL-1β contributes to angiogenesis in glioblastoma?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437631204449-s3",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include information about the proportion of DHA in sperm cell phospholipids and polyunsaturated fatty acids?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the role of DHA in maintaining sperm membrane structure and fluidity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss how DHA supports testicular cells such as Sertoli and Leydig cells in the spermatogenesis process?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the influence of DHA on Sertoli cells and other testicular cells in detail to clarify its role in spermatogenesis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on how DHA influences different stages of spermatogenesis in livestock?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the effects of DHA supplementation on various sperm quality parameters (e.g., motility, morphology, viability)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the underlying biological mechanisms by which DHA affects spermatogenesis and sperm quality?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Collodel et al. (2020) (title: Relevance of fatty acids to sperm maturation and quality) that supports the multifaceted influence of DHA on both spermatogenesis and sperm quality in livestock animals?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437328594152-s19",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include the standardized mean difference (SMD) indicating higher aggressiveness in adolescents with multiple suicide attempts compared to those with a single attempt?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response report the confidence interval and p-value to demonstrate the statistical significance of the difference in aggressiveness?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the homogeneity of the included studies (e.g., Q statistic, I² value) to support the consistency of the meta-analytic findings?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include findings on the 95% prediction interval excluding zero to reinforce the robustness of the effect?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the meta-analytic study by Esposito et al. (2003) (title: Affective, behavioral, and cognitive functioning in adolescents with multiple suicide attempts) that provides evidence of significantly higher aggressiveness in adolescents with multiple suicide attempts compared to those with a single attempt?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Hawton et al. (1999) (title: Repetition of deliberate self-harm by adolescents: The role of psychological factors) that supports the robustness of the findings by showing consistent results even after excluding longitudinal data?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a summary of key meta-analytic findings comparing aggressiveness levels between single and multiple suicide attempters?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss whether the difference in aggressiveness is statistically significant across studies?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437126892890-s1",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include the recommendation to collect a detailed lactational history as part of the assessment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response emphasize the importance of observing the infant’s tongue shape and movement while sucking on the examiner’s finger?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention palpation of the lingual frenulum to assess its elasticity, length, and site of attachment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss evaluating the range of tongue elevation towards the palate and the tongue’s ability to protrude beyond the lips?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention specific observational signs or behaviors clinicians look for during assessment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the use of standardized scoring systems or assessment tools for tongue mobility?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address the role of functional assessments such as breastfeeding effectiveness in the evaluation?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response reference studies like Brzęcka et al. (2019) (title: Diagnosis, classification and management of ankyloglossia including its influence on breastfeeding) that emphasize the role of breastfeeding observations in assessing tongue function and mobility?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436320711866-s11",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response provide a quantitative overview of how frequently social validity is evaluated in ABA intervention studies in Brazil?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response specify which aspects of social validity (goals, procedures, outcomes) are assessed in these studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the different methods used to evaluate social validity in ABA intervention studies conducted in Brazil?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed discussion on how frequently and in what contexts social validity is reported within these Brazilian ABA studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include common methods used to evaluate social validity in ABA intervention studies in Brazil?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how social validity outcomes are typically reported in these studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Carr et al. (1999) (title: An assessment of social validity trends in applied behavior analysis) to define and explain the concept of social validity in ABA research?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436220701027-s9",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response list specific genes associated with non-syndromic autosomal recessive intellectual disability (NS-ARID)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the functions of the proteins encoded by these NS-ARID-associated genes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the clinical effects or phenotypic outcomes of mutations in these genes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include information on how mutations affect neural development or neural functions?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the molecular and cellular functions of each gene’s encoded protein related to NS-ARID?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response extensively describe the clinical consequences and severity spectrum of mutations in these NS-ARID-associated genes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response differentiate between genes causing NS-ARID and those involved in syndromic forms of intellectual disability?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Molinari et al. (2008) (title: Oligosaccharyltransferase-subunit mutations in nonsyndromic mental retardation) to explain the role of TUSC3 in N-linked protein glycosylation and its link to intellectual disability?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435512233056-s11",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a detailed, step-by-step description of the LOM process starting from feeding the material sheet to building the complete 3D object?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the type of materials commonly used as sheets in LOM and their typical thickness?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the mechanism of cutting each sheet layer using a computer-controlled laser?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention how bonding between successive layers is achieved, such as by hot-melt adhesive and hot pressing rollers?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the core principles of LOM in depth, explaining how the layering and bonding mechanisms work together to form the 3D object?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed step-by-step explanation of the LOM manufacturing process, including material feed, cutting, layer lowering, and repetition until object completion?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a clear explanation of the fundamental principles underlying laminated object manufacturing (LOM)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the U.S. Patent 4752352 (title: Apparatus and method for forming an integral object from laminations) to explain the fundamental principle of layering and bonding thin sheets in LOM?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435713604755-s19",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a description of the embedding processes for both LSB substitution and LSB matching methods?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address the impact of each method on image noise or degradation?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed analysis of the watermarking capacity differences between LSB substitution and LSB matching?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain how the number of bits used in embedding affects image quality for both methods?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the robustness of each method against common image processing attacks?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the survey paper by Tran et al. (2022) (title: Lsb data hiding in digital media: a survey) that explains the fundamental differences between LSB substitution and LSB matching embedding processes?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438038821810-s2",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response identify linalool as the primary chemical constituent in Cinnamomum osmophloeum leaves?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the proportion ranges of linalool across different analyses?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response list other notable chemical constituents besides linalool, such as citral and coumarin?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed comparison of the proportions of the main chemical constituents across multiple analyses to highlight variability?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a list of the main chemical constituents commonly identified in Cinnamomum osmophloeum leaves?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed breakdown of the major chemical constituents identified in Cinnamomum osmophloeum leaves across different studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the quantitative variations in constituent proportions reported by various analytical methods?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Cheng et al. (2004) (title: Chemical Composition and Mosquito Larvicidal Activity of Essential Oils from Leaves of Different Cinnamomum osmophloeum Provenances) that provides detailed quantitative data on the proportions of linalool and other constituents in the leaves?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438038821203-s8",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include evidence of spilanthol causing neural disruption in insects, such as hyperexcitation and inhibition of nerve activity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention observed abnormal insect behaviors indicative of neurotoxic effects from spilanthol treatment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss spilanthol’s impact on larval mortality and interference with developmental processes like histolysis and histogenesis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the neurophysiological effects of spilanthol, including detailed evidence from electrophysiological studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a clear explanation of the biochemical or physiological mechanisms by which spilanthol affects insects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide evidence from experimental studies demonstrating spilanthol’s impact on insect mortality rates?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the research on spilanthol’s tissue penetration and transport kinetics by Veryser et al. (2016) (title: Mucosal and blood-brain barrier transport kinetics of the plant N -alkylamide spilanthol using in vitro and in vivo models) that supports its ability to reach insect nervous system tissues?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437428955736-s10",
+    "result": {
+      "coverage_score": 0.07142857142857142,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response provide prevalence rates of pulmonary hypertension for multiple specific patient groups in Africa?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention patient groups with notably higher prevalence of pulmonary hypertension, such as those with sickle cell disease or COPD?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify patient groups with relatively lower prevalence rates, such as systemic sclerosis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the differences in pulmonary hypertension prevalence among the various patient groups in depth to provide detailed insights?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include comparisons of pulmonary hypertension prevalence rates across different patient groups in Africa?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention potential risk factors or comorbidities influencing prevalence differences among patient groups?",
+          "score": "Moderately"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the factors contributing to variations in pulmonary hypertension prevalence among these groups?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436018302680-s13",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include traditional medicinal uses of Nees, such as consumption of its ripe fruits or antibacterial applications of its leaf oil?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the major chemical constituents identified in Nees leaf oil, including germacrene D and furanodiene?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response detail the traditional medicinal uses of the aerial parts of Eryngium foetidum, such as in treating pains, fevers, and gastrointestinal ailments?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide information about the chemical composition of the aerial parts of Eryngium foetidum, listing compounds like (E)-2-dodecenal, dodecanal, 2,3,6-trimethylbenzaldehyde, and (E)-2-tridecenal?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the traditional medicinal uses of Nees and Eryngium foetidum in detail, including specific applications and preparation methods?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth chemical composition analysis of the essential oils or extracts from both Nees and Eryngium foetidum, highlighting major constituents quantitatively?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a summary of the traditional medicinal uses of Nees and Eryngium foetidum leaves and aerial parts?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the main chemical compounds identified in the leaves and aerial parts of Nees and Eryngium foetidum?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436119933747-s0",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain which pro-inflammatory cytokines and reactive species induce IDO during COVID-19?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the effect of IDO activation on tryptophan levels and the production of specific tryptophan catabolites?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the molecular signaling pathways and cytokine profiles responsible for the induction of IDO during COVID-19?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the metabolic consequences of IDO activation on tryptophan catabolism and its downstream catabolites?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the molecular or cellular mechanisms that lead to the induction of IDO during COVID-19 infection?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss how IDO activity affects tryptophan catabolism specifically in the context of COVID-19?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include the immunological consequences of IDO-mediated tryptophan depletion during COVID-19?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response thoroughly explore the biochemical pathways of tryptophan catabolism influenced by IDO activity in the context of COVID-19?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436119949281-s13",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include the predominant presence of Lactobacillus species, especially Lactobacillus crispatus, in the vaginal microbiota of healthy women?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention a more diverse vaginal microbiota with reduced Lactobacillus spp. in women with cervical dysplasia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify specific bacterial species (e.g., Gardnerella vaginalis, Aerococcus christensenii, Peptoniphilus lacrimalis, Fannyhessea vaginae) that are more abundant in cervical dysplasia cases?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss changes in vaginal pH associated with cervical dysplasia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how microbial diversity (e.g., alpha and beta diversity) varies between the two groups?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention any specific microbial community state types (CSTs) associated with health versus cervical dysplasia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the specific microbial taxa or community structures that differ between healthy women and those with cervical dysplasia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Norenhag et al. (2024) (title: Compositional and functional differences of the vaginal microbiota of women with and without cervical dysplasia) that supports the statement about the increased diversity and specific bacterial taxa associated with cervical dysplasia?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435004079157-s1",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain the specific role of Fe²⁺ ions on the catalyst surface in generating hydroxyl radicals?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the effect of iron ion leaching (Fe²⁺ and Fe³⁺) into the aqueous phase on the CWPO efficiency?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the influence of the nature of iron species present on the catalyst surface on catalytic efficiency?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss in detail the specific roles of different iron species, such as Fe²⁺ and Fe³⁺, in generating hydroxyl radicals during CWPO?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include descriptions of how different iron species influence the formation rate of hydroxyl radicals in CWPO?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the impact of iron species on the overall catalytic efficiency and pollutant degradation rates in CWPO?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address the stability or transformation of iron species on catalyst surfaces during the CWPO process?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the mechanistic role of different iron species on catalyst surfaces in generating hydroxyl radicals during CWPO?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435004074835-s5",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a comparison of catalytic activity between sodium methoxide and sodium hydroxide?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe differences in biodiesel yield when using sodium methoxide versus sodium hydroxide?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention cost differences between sodium methoxide and sodium hydroxide?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss practical considerations related to soap formation and catalyst deactivation for both catalysts?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cover practical considerations such as ease of handling, safety, and storage for both catalysts?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth comparison of the catalytic mechanisms of sodium methoxide and sodium hydroxide in biodiesel production?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the impact of catalyst choice on biodiesel yield and purity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the review paper by Mathew et al. (2021) (title: Recent advances in biodiesel production: Challenges and solutions) to support the discussion on yield differences and soap formation issues related to sodium hydroxide and sodium methoxide?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435004075536-s1",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain that the selection of catalysts depends on the free fatty acid (FFA) content of the oil?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response indicate that acid catalysts are preferred for oils with high FFA content and water presence?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe acid catalysis being used primarily as a pretreatment step to convert FFAs into esters?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the reasons behind choosing acid versus alkaline catalysts based on different FFA content ranges in oils?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the pretreatment step using acid catalysts and its impact on subsequent alkaline-catalyzed transesterification?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include the impact of free fatty acid (FFA) content on the choice of catalyst type (acidic, basic, or enzymatic)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss how the catalyst order affects the conversion efficiency in oils with varying FFA levels?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth how the free fatty acid (FFA) content influences the choice and sequencing of catalysts in the transesterification process?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435004072015-s3",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response provide specific examples of different metal catalysts used in catalytic fast pyrolysis (e.g., SiO₂/Al₂O₃, V₂O₅, Co-Mo/γ-Al₂O₃, composite mesoporous catalysts, Mg-Al mixed oxides, NaY molecular sieve)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the effects of these metal catalysts on the yield of pyrolysis products?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss how the catalysts influence the chemical composition of pyrolysis products, such as aromatics, hydrocarbons, oxygen content, or furans?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the reaction mechanisms or pathways altered by the presence of the metal catalysts (e.g., deoxidation, dehydration, decarbonylation, aldol condensation)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the different roles and mechanisms by which metal catalysts influence product yield and composition in catalytic fast pyrolysis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on how different metal catalysts influence the overall yield in catalytic fast pyrolysis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare the performance of commonly used metal catalysts in terms of product distribution?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed comparison of the performance of various metal catalysts under different reaction conditions?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436220521214-s6",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain the mechanism of methotrexate as an antimetabolite affecting folic acid metabolism?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how methotrexate modulates immune and inflammatory pathways in atopic dermatitis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth how methotrexate modulates specific immune and inflammatory pathways involved in atopic dermatitis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a description of methotrexate’s primary mechanisms of action on immune cells relevant to atopic dermatitis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the impact of methotrexate on T-cell function or cytokine production in atopic dermatitis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss methotrexate’s effects on both innate and adaptive immune responses in the context of atopic dermatitis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the molecular mechanisms by which methotrexate modulates immune and inflammatory pathways in atopic dermatitis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the effects of methotrexate on specific immune cell types involved in atopic dermatitis?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436220529172-s6",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include specific remission rates for early follow-up periods such as within 6 months, 1 year, and 2 years?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide remission rates documented for longer-term follow-ups at 3, 5, and 10 years?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention studies or reviews that report cumulative remission rates over several years?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the remission rates reported at multiple specific time points (e.g., 6 months, 1 year, 3 years, 5 years, 10 years) to provide a comprehensive timeline of disease remission?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Kozel et al. (2001) (title: Natural course of physical and chronic urticaria and angioedema in 220 patients) that provides remission rates within the first year and longer-term follow-ups for chronic spontaneous urticaria?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Valk et al. (2002) (title: The natural history of chronic urticaria and angioedema in patients visiting a tertiary referral centre) that reports remission rates at multiple time points including 5 and 10 years?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436321318484-s13",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include clinical evidence that both PTH1-34 and rhPTH1-84 can maintain normal serum calcium levels without increasing urinary calcium excretion?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention that large clinical trials often excluded or had very few ADH1 patients, limiting subgroup-specific analyses?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide examples of smaller studies or case series involving ADH1 patients treated with PTH1-34 or rhPTH1-84?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight that continuous PTH1-34 infusion may reduce seizures in ADH1 patients compared to conventional therapy?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth discussion of the limitations and gaps in the current clinical evidence related to PTH1-34 and rhPTH1-84 use in ADH1?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite on PTH infusion for seizures in autosomal Dominant Hypocalcemia Type 1 by Sastre et al. (2021) (title: PTH infusion for seizures in autosomal dominant hypocalcemia type 1) to back the claim that continuous PTH1-34 infusion increased serum calcium and reduced seizure frequency in ADH1 patients?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436321315695-s10",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response summarize body weight changes separately for teneligliptin monotherapy and add-on therapy groups?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide statistical measures such as weighted mean difference (WMD) and confidence intervals (CI) for weight change?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response indicate whether the overall effect of teneligliptin on body weight is statistically significant?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response report heterogeneity statistics (e.g., I²) related to the analyzed studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the differences in body weight impact between teneligliptin monotherapy and add-on therapy?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth analysis of the overall statistical significance of teneligliptin's effect on body weight across all studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the magnitude and direction (weight loss, gain, or neutral) of body weight changes associated with teneligliptin?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436320832000-s15",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include specific findings that UDCA improves adiponectin levels in patients with NAFLD?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the effect of UDCA on fasting plasma glucose (FPG) reduction, including quantitative data?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response report improvements in HbA1c and HDL cholesterol levels with high-dose UDCA?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed discussion on how UDCA impacts various cardiovascular risk markers, including adiponectin and HDL cholesterol?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the RCT by Ratziu et al. (2011) (title: A randomized controlled trial of high-dose ursodesoxycholic acid for nonalcoholic steatohepatitis) that reports significant improvement in HbA1c and HDL cholesterol levels with high-dose UDCA?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response summarize the impact of UDCA on cardiovascular risk markers as reported in RCTs involving NAFLD patients?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss whether UDCA has a significant effect on insulin resistance or glycemic control in NAFLD patients?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite randomized controlled trials such as the study by Lindor et al. (2004) (title: Ursodeoxycholic acid for treatment of nonalcoholic steatohepatitis: results of a randomized trial) that evaluate the effects of UDCA on glucose metabolism in NAFLD patients?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438341748534-s7",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include key ecological traits of Phragmites australis such as flood tolerance and extensive rhizome system?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe morphological traits like rigid hollow stems and wide variability in shoot height?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the ecological traits of Phragmites australis in detail to explain its tolerance to flooding and adaptability to various wetland environments?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the morphological characteristics of Phragmites australis, such as rhizome structure and stem properties, related to its function in horizontal flow constructed wetlands?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Cooper & Knight (1996) (title: Reed Beds and Constructed Wetlands for Wastewater Treatment) to back the ecological suitability of Phragmites australis for horizontal flow constructed wetlands?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain how these ecological and morphological traits contribute to pollutant removal efficiency?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the specific ecological traits of Phragmites australis that enhance its performance in horizontal flow constructed wetlands?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the study by Brix (1997) (title: Do macrophytes play a role in constructed treatment wetlands?) that discusses the morphological traits of Phragmites australis, such as aerenchyma development and root structure, which enhance oxygen transport and pollutant removal?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437631169608-s8",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include the reported odds ratios (OR) and confidence intervals (CI) for the association of non-aspirin NSAIDs and selective COX-2 inhibitors with aneurysmal subarachnoid hemorrhage risk?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the difference in heterogeneity between studies on non-aspirin NSAIDs and selective COX-2 inhibitors?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response specify the magnitude of heterogeneity (e.g., I² values) for both non-aspirin NSAIDs and selective COX-2 inhibitors?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight that the heterogeneity is high for studies on non-aspirin NSAIDs?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the differences in risk associations between non-aspirin NSAIDs and selective COX-2 inhibitors in depth, including effect sizes and confidence intervals?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the heterogeneity observed across studies for each drug class, such as the interpretation of I² values?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Bak et al. (2003) (title: Risk of stroke associated with nonsteroidal anti-inflammatory drugs: a nested case-control study) that provides evidence for the association between selective COX-2 inhibitors and increased aSAH risk with low heterogeneity across studies?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437631199711-s1",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response specify that randomized parallel-group, placebo-controlled trials have been used to evaluate magnesium sulfate efficacy?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response detail variations in dosing regimens, routes of administration, and treatment durations across studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response list mortality and functional outcome scales such as the Glasgow Outcome Scale (GOS) and modified Rankin Scale (mRS) as outcome measures?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the specific study designs and methodological features used in the included trials evaluating magnesium sulfate?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include descriptions of the main types of clinical studies (e.g., randomized controlled trials, observational studies) used to evaluate magnesium sulfate in aneurysmal subarachnoid hemorrhage?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention key outcome measures commonly assessed in these studies, such as neurological function, mortality, or vasospasm incidence?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss whether the studies focus on short-term versus long-term efficacy of magnesium sulfate treatment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the various outcome measures in detail, including clinical, radiological, and biochemical endpoints?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438851149556-s0",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain the basic rules and structure of the Ultimatum Game?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight how the Ultimatum Game models social interaction in decision-making?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth how the Ultimatum Game models social decision-making processes beyond simple economic rationality?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on how the Ultimatum Game models fairness and reciprocity in social decision-making?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare the Ultimatum Game’s decision dynamics to real-world social interactions?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth analysis of how the Ultimatum Game models real-world social decision-making dynamics?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the seminal paper by Güth et al. (1982) (title: An experimental analysis of ultimatum bargaining) that establishes the foundational behavioral observations of the Ultimatum Game reflecting fairness and reciprocity in social decision-making?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Sanfey et al. (2003) (title: The neural basis of economic decision-making in the Ultimatum Game) that provides neuroimaging evidence linking brain regions such as the anterior insula and dorsolateral prefrontal cortex to emotional and cognitive processes during the Ultimatum Game?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435714019504-s14",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response compare how mass distribution is handled differently between the finite element method and the lumped mass method?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response emphasize enhanced accuracy and modeling flexibility as advantages of the finite element method?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the finite element method’s suitability for simulating complex geometries?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the finite element method’s capability to handle nonlinear problems?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth how the finite element method overcomes the mass distribution limitation of the lumped mass method?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a comparison of the accuracy of the finite element method versus the lumped mass method in simulating cable behavior?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the ability of the finite element method to model complex cable geometries and boundary conditions compared to the lumped mass method?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of how the finite element method improves accuracy or stability compared to the lumped mass method?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435714011388-s4",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain how IFEP minimizes fuel consumption through efficient load sharing between propulsion and ship service loads?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how IFEP avoids operating engines in low load, less efficient conditions compared to traditional propulsion systems?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth how IFEP improves fuel efficiency mechanisms compared to traditional propulsion systems?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the key mechanisms by which IFEP improves fuel efficiency in marine vessels?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how IFEP impacts the operational performance, such as maneuverability or speed control?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the operational performance benefits brought by IFEP in various marine vessel types?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Bolvashenkov et al. (2014) (title: Possible ways to improve the efficiency and competitiveness of modern ships with electric propulsion systems) that explains how IFEP minimizes fuel consumption through efficient load sharing and avoids low-load engine operation?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the reference titled \"A History of Electric Ship Propulsion Systems [History]\" that compares IFEP with conventional propulsion arrangements like CODLAG and CODLOG in terms of performance and fuel efficiency?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435714017536-s28",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response specify the number of primary marine forest projects currently active in South Korea?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify the main institutions or organizations responsible for these marine forest projects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the specific objectives or goals of each marine forest project mentioned?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss any particular techniques or methods used in these projects, such as seed bank development or substrate improvement?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the geographic locations or specific coastal areas where these projects are being conducted?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the ecological and socio-economic impacts targeted by these marine forest projects in South Korea?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436925666604-s6",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include results from randomized controlled trials comparing beta blockers to placebo in CSCR patients?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss whether beta blockers show a statistically significant improvement in visual acuity outcomes in CSCR?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight whether beta blockers reduce the duration of CSCR episodes according to clinical studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the randomized controlled trial on propranolol by KIAN et al. (2008) (title: Effects of propranolol in patients with central serous chorioretinopathy) that showed a significant reduction in CSCR duration but no difference in final visual acuity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a summary of the main clinical trial results regarding beta blockers for CSCR?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437630965908-s10",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response summarize the number of studies and total participants that investigated the relationship between hypertension and serum Gd-IgA1 levels?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response indicate that the majority of studies found no significant direct association between blood pressure and Gd-IgA1?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention specific studies that reported an indirect or possible association between hypertension and elevated Gd-IgA1 levels?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight subgroups of patients where a relationship between hypertension and Gd-IgA1 might be observed?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the potential mechanisms or clinical contexts in which Gd-IgA1 levels and hypertension might be linked?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Chen et al. (2019) (title: Plasma galactose-deficient IgA1 and C3 and CKD progression in IgA nephropathy) that reports patients with higher Gd-IgA1/C3 ratios also having higher blood pressures, supporting an indirect relationship between hypertension and serum Gd-IgA1 levels?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Berthoux et al. (2011) (title: Predicting the risk for dialysis or death in IgA nephropathy) that shows patients with higher absolute renal risk—including hypertension—exhibit elevated Gd-IgA1 levels, indicating a possible indirect association?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436622985949-s11",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a definition of self-assembled monolayers (SAMs) as organized molecular assemblies formed via spontaneous binding of active chemical groups to reactive substrates?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the relatively simple synthesis process of SAMs that makes them attractive for surface engineering?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe SAMs as anchoring platforms for attaching polymer chains or initiating surface-confined polymerization?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the key chemical or physical properties of SAMs that make them suitable for surface engineering?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain how SAMs improve hemocompatibility specifically (e.g., reducing protein adsorption, platelet adhesion)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide examples of materials or functional groups commonly used in SAMs for hemocompatible surfaces?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Sperling et al. (2005) (title: In vitro hemocompatibility of self-assembled monolayers displaying various functional groups) that supports the benefits of SAMs functionalization for hemocompatible surface properties?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the mechanisms by which SAMs improve hemocompatibility, such as protein adsorption reduction or platelet activation inhibition?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436622838200-s3",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response provide examples of clinical trials assessing IL-2 therapy in patients at different remission stages of acute leukemia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address safety and tolerability outcomes observed across these clinical trials?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the use of IL-2 as a maintenance therapy after transplantation or during remission?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response thoroughly explore the variations in IL-2 dosing regimens and their impact on efficacy and adverse effects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on the safety profile of IL-2 therapy across different remission stages in acute leukemia patients?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response summarize the effectiveness outcomes of IL-2 therapy reported in clinical trials for acute leukemia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare results from multiple clinical trials to highlight consistent or conflicting evidence?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the pilot study by Foa et al. (1991) (title: Treatment of acute myeloid leukaemia patients with recombinant interleukin 2: a pilot study) that reports on the feasibility and tolerability of IL-2 infusion in AML patients in first complete remission without significant improvement in disease-free survival?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437530446348-s14",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include specific statistical comparisons of progression-free survival (PFS) between Sezary syndrome (SS) and mycosis fungoides (MF) patients?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide statistical comparisons of overall survival (OS) between SS and MF patients?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the differences in progression-free survival and overall survival between Sezary syndrome and mycosis fungoides patients in detail, including multiple study findings?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth discussion on the impact of hematopoietic stem cell transplantation treatments on survival outcomes for both patient groups?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention key clinical or demographic factors that influence survival differences between the two patient groups?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed discussion on the clinical factors influencing survival differences between Sezary syndrome and mycosis fungoides?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539436622915105-s4",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a quantitative measure of increased recurrence risk (e.g., odds ratio) for patients with PFO and thrombophilia compared to those without thrombophilia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response state that patients with thrombophilia treated only with antithrombotic therapy have a higher recurrence risk than those without thrombophilia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the quantitative impact of thrombophilia on recurrence risk, including odds ratios and confidence intervals?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on how thrombophilia influences the recurrence risk in patients with PFO compared to those without thrombophilia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss whether thrombophilia significantly increases the risk of recurrent events in PFO patients?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare recurrence risks between PFO patients with thrombophilia and those without any known thrombophilia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed comparison of recurrence rates between patients with PFO with and without thrombophilia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Giardini et al. (2004) (title: Comparison of results of percutaneous closure of patent foramen ovale for paradoxical embolism in patients with versus without thrombophilia) that supports the statement about the increased risk of recurrence in PFO patients with thrombophilia compared to those without?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437026386598-s5",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response describe how CFD models are created from imaging data such as CT or MRI scans?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the physiological phenomena simulated by CFD, including airflow, heat exchange, and water vapor transport?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight specific findings about nasal mucosal heat loss and its correlation with nasal patency perception?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of the correlation between mucosal heat loss and the subjective perception of nasal patency?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Zhao et al. (2014) (title: Regional peak mucosal cooling predicts the perception of nasal patency) that links peak nasal mucosal heat loss with subjective perception of nasal patency?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the relationship between CFD-derived airflow patterns and the subjective perception of nasal patency?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight clinical or experimental studies validating CFD predictions against patient-reported nasal patency?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of how CFD results correlate with subjective and objective measures of nasal patency perception?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437026247207-s17",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include information on the types of surgical instruments used for de-epithelialization in Wendler glottoplasty, such as cold microinstruments or CO₂ laser?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the preference for absorbable suture materials among most studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide the range of the number of sutures commonly used in Wendler glottoplasty?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss findings regarding the impact of the number of sutures on postoperative voice outcomes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the various suture materials employed in the procedure?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539435004612323-s35",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain how segregation of elements like zirconium at grain boundaries affects grain growth and optical transmittance?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the formation of amorphous phases from impurities segregated at grain boundaries and their impact on light scattering?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include information on how increased grain boundary volume fraction influences optical opacity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the mechanisms by which impurity segregation at grain boundaries leads to increased light scattering and reduced optical transmittance?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the mechanisms by which grain boundary segregation alters optical properties in polycrystalline oxides?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address whether the extent of segregation correlates with changes in optical transmittance?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539434801876440-s15",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a classification of sustainability reporting studies into six specific geographical subsections?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide the percentage distribution of studies within these geographical categories?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Dumay et al. (2016) (title: Integrated reporting: A structured literature review) to support the classification of studies on organisational location in sustainability reporting into the six geographical subsections?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a clear categorization of studies on organizational location in sustainability reporting by geographic regions or countries?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight key trends or patterns in the geographic distribution of these studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention any regions or countries that are notably overrepresented or underrepresented in the literature?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the key findings related to the distribution patterns of these studies across different regions or countries?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite key review papers such as Kolk (2016) (title: The social responsibility of international business: From ethics and the environment to CSR and sustainable development) that categorize sustainability reporting studies by geographic regions and discuss their thematic focus?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437529737145-s6",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include examples of specific aerobic exercise interventions investigated in RA patients, such as supervised cycling, dynamic exercise, and combined resistance and aerobic training?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the effects of aerobic exercise on inflammatory markers like CRP, ESR, IL-1, IL-6, IL-8, and 3-nitrotyrosine?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide findings related to changes in disease activity scores (e.g., DAS28, HAQ) following aerobic exercise interventions?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the effects of aerobic exercise on inflammatory markers and disease activity in rheumatoid arthritis patients in sufficient detail to assess their relationship?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth discussion of specific biomarkers (e.g., CRP, ESR, interleukins) and how they are affected by different aerobic exercise interventions?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the effects of aerobic exercise on overall disease activity or symptom severity in rheumatoid arthritis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Baslund et al. (1993) (title: Effect of 8 wk of bicycle training on the immune system of patients with rheumatoid arthritis) to support the statement that short-term supervised aerobic cycling showed no significant changes in CRP, ESR, or key interleukins in RA patients?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Melikoglu et al. (2006) (title: Association between dynamic exercise therapy and IGF-1 and IGFBP-3 concentrations in the patients with rheumatoid arthritis) to back the observation that dynamic exercise increased IGF-1 but did not significantly affect ESR or CRP?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437429693280-s11",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include evidence from randomized controlled trials (RCTs) supporting the anti-inflammatory effects of chondroitin sulfate (CS)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide findings from clinical studies showing cartilage-protective effects of CS?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention specific RCT results that showed improvements in pain or function with GS treatment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the anti-inflammatory effects of chondroitin sulfate and glucosamine sulfate in detail, including mechanisms and clinical evidence?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key experimental findings demonstrating the anti-inflammatory effects of chondroitin sulfate and glucosamine sulfate?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss molecular or cellular mechanisms underlying their therapeutic effects?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437429695161-s6",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response specify clinical situations such as acute severe cases after trauma or arthritis where MRI is particularly useful?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the role of MRI in cases where surgical treatment for carpal tunnel syndrome has failed?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include information about the use of MRI in long-standing carpal tunnel syndrome to detect nerve fibrosis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe MRI’s usefulness in identifying fibrous tissue, scars, or space-occupying lesions around the median nerve?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the specific clinical scenarios in which MRI use in carpal tunnel syndrome evaluation is particularly indicated?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include the key clinical scenarios where MRI provides diagnostic advantages over other imaging modalities for carpal tunnel syndrome?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the role of MRI in cases where clinical and electrophysiological findings are inconclusive?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight situations where MRI is particularly useful for detecting secondary causes or atypical presentations of carpal tunnel syndrome?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539437429078512-s12",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a classification of the main endoscopic treatment options for biliary leaks into five distinct groups?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide clinical success rates for each of these five treatment options?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare the clinical success rates among the treatment groups and highlight any notable differences or trends?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response report on the complication rates associated with each treatment modality?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth comparison of complication profiles associated with each endoscopic treatment option?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight any factors influencing the choice of endoscopic treatment for biliary leaks?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the different endoscopic treatment modalities for biliary leaks, including their mechanisms and procedural aspects?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "174539438037958327-s4",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response describe the key morphological features of Ganoderma lucidum, including details about the cap, stem, hymenophore, pores, and spores?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response specify the growth habits of Ganoderma lucidum, such as its occurrence singly or in groups and its fruiting seasons?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the typical substrate preferences, including live and dead deciduous trees and occasional conifers?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify the ecological roles of Ganoderma lucidum, particularly its function as both a saprotroph and parasite causing white rot?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the typical ecological roles that Ganoderma lucidum plays in its natural environment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Wachtel-Galor et al. (2012) (title: Ganoderma lucidum (Lingzhi or Reishi): a medicinal mushroom) that supports the description of the morphological characteristics such as cap size, color changes, and spore features?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "253447259-s34",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response provide a detailed explanation of how back-translation was first applied to grammatical error detection and later to grammatical error correction?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the comparison of back-translation with other strategies like rule-based methods and noisy beam-search?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the role of quality control mechanisms in improving back-translation for GEC?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include examples of how back-translation has been adapted for grammatical error correction tasks?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the effectiveness of back-translation compared to other methods in grammatical error correction?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention specific datasets used to evaluate the performance of back-translation in grammatical error correction?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the specific adaptations made to back-translation techniques for grammatical error correction tasks?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the paper by Zhao et al. (2018) (title: Overview of the NLPCC 2018 shared task: Grammatical error correction) that first applied back-translation to grammatical error detection?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "17434250109873-s14",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response provide an in-depth explanation of why faithfulness and plausibility are often mistakenly equated in practice?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the implications of confusing faithfulness with plausibility in model explanations?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide examples to illustrate the difference between faithfulness and plausibility?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response define plausibility in the context of model explanations?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response define faithfulness in the context of model explanations?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide examples of scenarios where faithfulness and plausibility might diverge in model explanations?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the importance of faithfulness in ensuring that model explanations accurately reflect the model's decision-making process?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth analysis of why distinguishing between faithfulness and plausibility is crucial for model interpretability?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "fully_underspecified",
+    "id": "17442129826803-s28",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include examples of how pseudo-labels are used, such as training prediction heads for foreground segmentation?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the use of end-to-end training of task-specific architectures with techniques to manage noise in pseudo-labels?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the role of unsupervised finetuning of self-supervised pre-trained backbones in improving object localization?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the advantage of using coarse localization predictions from training-free approaches as pseudo-labels?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed explanation of how pseudo-labels are used in training prediction heads for foreground segmentation on top of frozen self-supervised features?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the process of end-to-end training of task-specific architectures while managing the noise in pseudo-labels?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the mechanism by which pseudo-labels enhance the accuracy of object localization?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the mechanisms by which pseudo-labels enhance object localization in unsupervised methods?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_scope",
+    "id": "174539438444029406-s10",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response mention the absence of data transformation (e.g., logarithmic transformation) applied to skewed antibody titer data?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the inappropriate pooling of arithmetic and geometric means in the meta-analysis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address the extremely high heterogeneity (I² values) among studies and its implications for pooling?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key statistical issues identified in pooling approaches, such as heterogeneity or publication bias?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Borenstein et al. (2021) (title: Introduction to meta - analysis) that discusses the limitations of pooling heterogeneous studies and the impact on effect size estimation in meta-analyses of immunogenicity outcomes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Higgins et al. (2003) (title: Measuring inconsistency in meta - analyses) that explains the statistical issues related to heterogeneity and the use of I² statistics in pooling approaches for vaccine immunogenicity studies?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_scope",
+    "id": "174539437631199711-s1",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response specify that randomized parallel-group, placebo-controlled trials have been used to evaluate magnesium sulfate efficacy?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response detail variations in dosing regimens, routes of administration, and treatment durations across studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response list mortality and functional outcome scales such as the Glasgow Outcome Scale (GOS) and modified Rankin Scale (mRS) as outcome measures?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the specific study designs and methodological features used in the included trials evaluating magnesium sulfate?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include descriptions of the main types of clinical studies (e.g., randomized controlled trials, observational studies) used to evaluate magnesium sulfate in aneurysmal subarachnoid hemorrhage?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention key outcome measures commonly assessed in these studies, such as neurological function, mortality, or vasospasm incidence?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss whether the studies focus on short-term versus long-term efficacy of magnesium sulfate treatment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the various outcome measures in detail, including clinical, radiological, and biochemical endpoints?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_scope",
+    "id": "174539438140616378-s3",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include leaching test results from multiple countries such as the United States, China, India, and the Philippines?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response indicate that the leaching concentrations of these heavy metals were below regulatory safety thresholds?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response reference the use of standardized leaching test procedures like the Toxicity Characteristic Leaching Procedure (TCLP)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a summary of leaching test results from multiple countries?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare the heavy metal concentrations found in leachates to international environmental safety standards?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_scope",
+    "id": "174539439257808560-s2",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include documentation of specific physiological changes in sexual response such as genital vasocongestion, vaginal lubrication, and orgasmic contractions during the early postpartum weeks?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the typical timeline for the normalization of physiological sexual functions postpartum (e.g., around 12 weeks)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address the variability in subjective sexual desire among postpartum women during the early weeks after childbirth?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention common physical discomforts (e.g., fatigue, pain, breast soreness) that affect postpartum sexual desire?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response differentiate between changes observed in the immediate weeks versus later postpartum periods?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention any factors influencing variability in postpartum sexual response and desire?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Masters and Johnson (2015) (title: Human Sexual Response) to describe the physiological changes in genital vasocongestion, vaginal lubrication, rugal patterns, and orgasmic contractions during the early postpartum period?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "tongyi",
+    "variant": "without_term",
+    "id": "174539437630759707-s1",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include the taxonomic placement of Hematodinium species within the genus, family, order, and class?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the key morphological characteristics used to identify Hematodinium species, such as V-shaped nuclei and naked gymnodinoid dinospores?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response specify the known Hematodinium species and the morphological traits that differentiate them?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the genetic markers and molecular methods used for identifying Hematodinium species?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include the current taxonomic hierarchy and classification criteria for Hematodinium species?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare morphological versus genetic approaches in terms of reliability or resolution?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "qwen",
+    "variant": "without_term",
+    "id": "174539437630759707-s1",
+    "result": {
+      "coverage_score": 0.16666666666666666,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include the taxonomic placement of Hematodinium species within the genus, family, order, and class?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the key morphological characteristics used to identify Hematodinium species, such as V-shaped nuclei and naked gymnodinoid dinospores?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response specify the known Hematodinium species and the morphological traits that differentiate them?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the genetic markers and molecular methods used for identifying Hematodinium species?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include the current taxonomic hierarchy and classification criteria for Hematodinium species?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare morphological versus genetic approaches in terms of reliability or resolution?",
+          "score": "Completely"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539436421853232-s56",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response explain the genetic mutations responsible for Marfan syndrome type 1?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the role of fibrillin-1 protein and its interaction with TGF-β in Marfan syndrome type 1?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the distinct genetic mutations causing Marfan syndrome type 1 and type 2 in detail to clarify their separate molecular mechanisms?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Mizuguchi et al. (2004) (title: Heterozygous TGFBR2 mutations in Marfan syndrome) that details the genetic causes of Marfan syndrome type 2 involving mutations in the TGFBR2 gene and their impact on TGF-β signaling pathways?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include the primary genetic mutations responsible for Marfan syndrome types 1 and 2?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the molecular pathways affected by these genetic mutations?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response differentiate between the genetic causes of type 1 and type 2 Marfan syndrome?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response thoroughly explore the molecular pathways and mechanisms affected by these genetic mutations?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539436421919400-s0",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include specific SNPs in the APOA5 gene such as -1131T > C, c56C > G, and c553G > T associated with metabolic syndrome?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe how APOA5 SNPs affect metabolic syndrome susceptibility by altering lipid metabolism (e.g., triglyceride and HDL cholesterol levels)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the biological function of the APOA5 protein and its role in regulating plasma lipids related to metabolic syndrome?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the mechanisms by which APOA5 SNPs affect lipid metabolism and contribute to metabolic syndrome in detail?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the meta-analysis paper by Liu et al. (2012) (title: Apolipoprotein a5 gene polymorphism and risk for metabolic syndrome: a meta-analysis) to support the statement that common APOA5 SNPs like -1131T > C are significantly associated with metabolic syndrome components?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on how specific SNPs in the APOA5 gene influence the risk of developing metabolic syndrome?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the impact of APOA5 SNPs on individual components of metabolic syndrome, such as triglyceride levels, HDL cholesterol, or insulin resistance?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539436623009160-s2",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include a description of the main metabolic pathways of tramadol in the liver, specifically phase I and phase II reactions?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify O-desmethyltramadol (M1) as the primary and pharmacologically active metabolite of tramadol?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention other metabolites besides M1, noting their analgesic activity or inactivity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the role of the CYP2D6 enzyme in tramadol metabolism?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss how CYP2D6 genetic polymorphisms affect tramadol’s analgesic efficacy?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response detail the differences in mu opioid receptor affinity between tramadol and its M1 metabolite, including enantiomer-specific activity?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539436220392496-s3",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include typical age ranges and specific molars commonly affected by Buccal Bifurcation Cyst (e.g., mandibular first and second molars)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention recurrent buccal swelling and local tenderness as common clinical symptoms of BBC?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response state that the affected tooth remains vital in BBC cases?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe radiographic features such as buccal tilting of the crown and root apices approaching the lingual cortex?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the typical clinical features of Buccal Bifurcation Cyst in detail to provide a comprehensive understanding of symptomatology?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the typical age group and demographic characteristics of patients affected by Buccal Bifurcation Cyst?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the usual anatomical location and molar involvement patterns in Buccal Bifurcation Cyst cases?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539438342052713-s6",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response provide specific antiviral efficacy results of quercetin against multiple DENV-2 strains, including quantitative measures like IC50 and selectivity index?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response indicate that quercetin’s antiviral activity varies depending on the DENV-2 strain?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the variations in quercetin’s antiviral efficacy among different DENV-2 strains including quantitative measures across multiple experimental settings?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Jasso-Miranda et al. (2019) (title: Antiviral and immunomodulatory effects of polyphenols on macrophages infected with dengue virus serotypes 2 and 3 enhanced or not with antibodies) that provides evidence of quercetin’s significant inhibition of the DENV-2 NG strain in VERO cells, supporting its antiviral efficacy in that context?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Chiow et al. (2016) (title: Evaluation of antiviral activities of Houttuynia cordata Thunb. extract, quercetin, quercetrin and cinanserin on murine coronavirus and dengue virus infection) that reports quercetin’s comparatively low antiviral activity against the New Guinea C strain in BHK-21 cells, illustrating strain-dependent variation?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare the antiviral activity levels of quercetin across different DENV-2 strains?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss any variations in quercetin’s efficacy due to genetic differences among DENV-2 strains?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539437937625669-s4",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include information on specific antioxidant assays such as DPPH radical scavenging and ferric-reducing antioxidant power (FRAP)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention additional antioxidant activities like antilipid peroxidation, ABTS radical scavenging, superoxide radical scavenging, metal chelating, and reducing power?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the presence of total phenolic and flavonoid contents in Parkia speciosa extracts?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the variety of antioxidant assays used to evaluate Parkia speciosa extracts so as to comprehensively characterize their antioxidant activities?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response specify which parts of the plant (pods vs. seeds) show consistent antioxidant effects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the common in vitro assay methods used to evaluate antioxidant activity in these studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight any key bioactive compounds identified as responsible for the antioxidant effects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the specific antioxidant mechanisms demonstrated by Parkia speciosa extracts in vitro?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539437328318561-s7",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include quantitative measures (e.g., standardized mean difference and risk ratio) demonstrating the toxic effects of ibogaine on motor function?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include specific toxic effects of ibogaine on motor function observed in preclinical studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide evidence from animal models or in vitro studies supporting these toxic effects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the dose-dependency of ibogaine’s toxic effects on motor function?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the neurobiological mechanisms proposed to underlie ibogaine-induced motor toxicity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Chen et al. (1996) (title: Ibogaine block of the NMDA receptor: in vitro and in vivo studies) to back the mechanistic explanation of ibogaine’s neurotoxic effects related to motor impairment?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539437631204449-s3",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include information about the proportion of DHA in sperm cell phospholipids and polyunsaturated fatty acids?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the role of DHA in maintaining sperm membrane structure and fluidity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss how DHA supports testicular cells such as Sertoli and Leydig cells in the spermatogenesis process?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the influence of DHA on Sertoli cells and other testicular cells in detail to clarify its role in spermatogenesis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on how DHA influences different stages of spermatogenesis in livestock?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the effects of DHA supplementation on various sperm quality parameters (e.g., motility, morphology, viability)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the underlying biological mechanisms by which DHA affects spermatogenesis and sperm quality?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Collodel et al. (2020) (title: Relevance of fatty acids to sperm maturation and quality) that supports the multifaceted influence of DHA on both spermatogenesis and sperm quality in livestock animals?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539438038826320-s5",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response provide detailed explanations of the chemical compound types identified in each specific part of Rhizophora stylosa (e.g., leaves, fruits, flowers)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a comprehensive list of chemical compound types identified in different parts of Rhizophora stylosa (e.g., leaves, bark, roots)?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide specific examples of key compounds found in each plant part?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include specific examples of steroid compounds identified from the leaves of Rhizophora stylosa?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide examples of lignan compounds isolated from the leaves?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention any megastigmane glycosides found in the leaves?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify apocarotenoid metabolites, such as blumenol A, from the leaves?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention any bioactive or pharmacologically significant compounds among those identified?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539438038821203-s8",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include evidence of spilanthol causing neural disruption in insects, such as hyperexcitation and inhibition of nerve activity?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention observed abnormal insect behaviors indicative of neurotoxic effects from spilanthol treatment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss spilanthol’s impact on larval mortality and interference with developmental processes like histolysis and histogenesis?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the neurophysiological effects of spilanthol, including detailed evidence from electrophysiological studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a clear explanation of the biochemical or physiological mechanisms by which spilanthol affects insects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide evidence from experimental studies demonstrating spilanthol’s impact on insect mortality rates?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the research on spilanthol’s tissue penetration and transport kinetics by Veryser et al. (2016) (title: Mucosal and blood-brain barrier transport kinetics of the plant N -alkylamide spilanthol using in vitro and in vivo models) that supports its ability to reach insect nervous system tissues?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539436018302680-s13",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include traditional medicinal uses of Nees, such as consumption of its ripe fruits or antibacterial applications of its leaf oil?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the major chemical constituents identified in Nees leaf oil, including germacrene D and furanodiene?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response detail the traditional medicinal uses of the aerial parts of Eryngium foetidum, such as in treating pains, fevers, and gastrointestinal ailments?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide information about the chemical composition of the aerial parts of Eryngium foetidum, listing compounds like (E)-2-dodecenal, dodecanal, 2,3,6-trimethylbenzaldehyde, and (E)-2-tridecenal?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore the traditional medicinal uses of Nees and Eryngium foetidum in detail, including specific applications and preparation methods?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth chemical composition analysis of the essential oils or extracts from both Nees and Eryngium foetidum, highlighting major constituents quantitatively?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include a summary of the traditional medicinal uses of Nees and Eryngium foetidum leaves and aerial parts?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the main chemical compounds identified in the leaves and aerial parts of Nees and Eryngium foetidum?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539437630759707-s1",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include the taxonomic placement of Hematodinium species within the genus, family, order, and class?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe the key morphological characteristics used to identify Hematodinium species, such as V-shaped nuclei and naked gymnodinoid dinospores?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response specify the known Hematodinium species and the morphological traits that differentiate them?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide an in-depth explanation of the genetic markers and molecular methods used for identifying Hematodinium species?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include the current taxonomic hierarchy and classification criteria for Hematodinium species?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare morphological versus genetic approaches in terms of reliability or resolution?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539436622838200-s3",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response provide examples of clinical trials assessing IL-2 therapy in patients at different remission stages of acute leukemia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response address safety and tolerability outcomes observed across these clinical trials?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the use of IL-2 as a maintenance therapy after transplantation or during remission?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response thoroughly explore the variations in IL-2 dosing regimens and their impact on efficacy and adverse effects?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on the safety profile of IL-2 therapy across different remission stages in acute leukemia patients?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response summarize the effectiveness outcomes of IL-2 therapy reported in clinical trials for acute leukemia?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare results from multiple clinical trials to highlight consistent or conflicting evidence?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the pilot study by Foa et al. (1991) (title: Treatment of acute myeloid leukaemia patients with recombinant interleukin 2: a pilot study) that reports on the feasibility and tolerability of IL-2 infusion in AML patients in first complete remission without significant improvement in disease-free survival?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539437026247207-s17",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include information on the types of surgical instruments used for de-epithelialization in Wendler glottoplasty, such as cold microinstruments or CO₂ laser?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the preference for absorbable suture materials among most studies?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide the range of the number of sutures commonly used in Wendler glottoplasty?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss findings regarding the impact of the number of sutures on postoperative voice outcomes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the various suture materials employed in the procedure?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539437429693301-s16",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response include venous thromboembolism (VTE) as a key risk factor to consider before starting JAK inhibitors?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight older age as an important consideration due to comorbidities and altered drug metabolism?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention chronic kidney disease (CKD) as a relevant risk factor impacting JAK inhibitor safety?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the paper on the safety of Janus kinase inhibitors in older patients by Rajasimhan et al. (2020) (title: Safety of Janus kinase inhibitors in older patients: a focus on the thromboembolic risk) to highlight the increased risk of venous thromboembolism (VTE) in elderly rheumatoid arthritis patients?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite on renal dysfunction in rheumatoid arthritis patients by Mori et al. (2017) (title: Prevalence of and factors associated with renal dysfunction in rheumatoid arthritis patients: a cross-sectional study in community hospitals) to emphasize the importance of chronic kidney disease (CKD) as a risk factor before starting JAK inhibitors?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the impact of patient comorbidities on the safety of JAK inhibitors?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention infection risks, including opportunistic infections, related to JAK inhibitor use?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the various clinical risk factors associated with JAK inhibitor therapy in refractory rheumatoid arthritis?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539437937492715-s2",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response discuss altitude-dependent warming patterns, including examples of stronger winter nighttime warming at higher elevations?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response describe seasonal variations in warming trends across different elevations, such as stronger summer maximum temperature increases at lower elevations?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth the seasonal variations of temperature anomalies and warming trends in different elevation bands within the Swiss Alps?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide detailed explanations of altitudinal gradients and how they vary across seasons and atmospheric circulation regimes?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include key findings on how temperature anomalies differ between high and low elevations in the Swiss Alps?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response compare the magnitude of warming trends during winter versus summer seasons?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in depth how temperature anomalies differ across multiple elevation bands in the Swiss Alps?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response provide a detailed seasonal breakdown of warming trends, explaining variations for each season separately?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "174539438037958327-s4",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response describe the key morphological features of Ganoderma lucidum, including details about the cap, stem, hymenophore, pores, and spores?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response specify the growth habits of Ganoderma lucidum, such as its occurrence singly or in groups and its fruiting seasons?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention the typical substrate preferences, including live and dead deciduous trees and occasional conifers?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response identify the ecological roles of Ganoderma lucidum, particularly its function as both a saprotroph and parasite causing white rot?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explain the typical ecological roles that Ganoderma lucidum plays in its natural environment?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite Wachtel-Galor et al. (2012) (title: Ganoderma lucidum (Lingzhi or Reishi): a medicinal mushroom) that supports the description of the morphological characteristics such as cap size, color changes, and spore features?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  },
+  {
+    "system": "5.4",
+    "variant": "without_term",
+    "id": "253447259-s34",
+    "result": {
+      "coverage_score": 0.0,
+      "rubric_judges": [
+        {
+          "rubric": "Does the response provide a detailed explanation of how back-translation was first applied to grammatical error detection and later to grammatical error correction?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the comparison of back-translation with other strategies like rule-based methods and noisy beam-search?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response highlight the role of quality control mechanisms in improving back-translation for GEC?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response include examples of how back-translation has been adapted for grammatical error correction tasks?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response discuss the effectiveness of back-translation compared to other methods in grammatical error correction?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response mention specific datasets used to evaluate the performance of back-translation in grammatical error correction?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response explore in detail the specific adaptations made to back-translation techniques for grammatical error correction tasks?",
+          "score": "Not at all"
+        },
+        {
+          "rubric": "Does the response cite the paper by Zhao et al. (2018) (title: Overview of the NLPCC 2018 shared task: Grammatical error correction) that first applied back-translation to grammatical error detection?",
+          "score": "Not at all"
+        }
+      ]
+    }
+  }
+]

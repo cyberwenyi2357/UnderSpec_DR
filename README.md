@@ -1,9 +1,6 @@
-# Deep research agents on underspecified queries
+# Effects of User Query Underspecification on Deep Research Agents
 
-How do deep research agents behave when a research question is underspecified? This repository holds
-queries from three benchmarks, rewritten into underspecified variants. It also has the answers of three
-deep research agents to every version, quality scores for those answers, and an LLM judge's verdict on
-whether each answer noticed the ambiguity. It includes the code to regenerate the answers, scores and
+This repository holds queries from three benchmarks, rewritten into underspecified variants. It also has the answers of three deep research agents to every version, quality scores for those answers, and an LLM judge's verdict on whether each answer noticed the ambiguity. It includes the code to regenerate the answers, scores and
 search-behaviour metrics.
 
 | Benchmark | Questions | Answer-quality score |

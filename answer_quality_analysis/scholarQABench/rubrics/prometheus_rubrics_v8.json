@@ -1,0 +1,35 @@
+[
+    {
+        "criteria_description": "Organization and Coherence: Evaluate if Output A is well-organized and logically structured. An acceptable response should: - be clearly structured, grouping related points together for a logical flow. - be coherent, without any contradictions or unnecessary repetition.",
+        "score1_description": "Poor Organization; The response is disorganized, with no clear structure.  Points are scattered without any logical order, making it difficult to follow.  The text lacks coherence, and there are contradictions or irrelevant repetitions throughout. ",
+        "score2_description": "Basic Organization; The response has some organization, but the structure is inconsistent.  There are occasional lapses in coherence, with minor contradictions or repetitive statements that disrupt the overall clarity. ",
+        "score3_description": "Moderate Organization; The response is generally well-organized, with a clear structure that is mostly maintained; points are grouped logically, though there may be some minor lapses in flow or coherence. For instance, the answer has several clear paragraphs, each of which clearly discusses some core points. The text is mostly clear, with only occasional repetition or slight contradictions.",
+        "score4_description": "Strong Organization; The response is well-organized, with a clear and logical structure that is followed consistently; Points are effectively grouped, and the flow is smooth. Several answers may come with clear opening or section / paragraph headers, which further improve the readability, although there are minor points (e.g., how to group papers together, section headers) that can be improved. There may be minor lapses in coherence, but overall, the response is clear and easy to follow and there is minimal repetition or contradictions.",
+        "score5_description": "Exceptionally Organized; The response is exceptionally well-organized, with a flawless logical structure, and points are grouped perfectly, and the flow between them is seamless. The answer consists of multiple discussion points,  come with clear discourse markers or paragraphs / section headers. No need to fix the structure.  The text is coherent throughout, with no contradictions or unnecessary repetition.",
+        "use_title": false,
+        "use_docs": false,
+        "aspect": "organization"
+    },
+    {
+        "criteria_description": "Coverage and Amount of Information: Evaluate if the output provides sufficient coverage and amount of information. The output should: - (coverage) Offer a comprehensive review of the area of interest, citing a diverse range of representative papers and discussing a variety of sources, not just a few (1-2 papers) \n- (depth) Provide enough relevant information to understand each discussion point.  ",
+        "score1_description": "Severely Lacking Coverage; The output lacks coverage of several core lines of research or focuses predominantly on a single line of work, missing a holistic view of the area.\\n Greatly Limited Depth of Information; The output either lacks essential details needed to fully understand the topic (e.g., definitions of methods, relationships between methods).\\n",
+        "score2_description": "Partial Coverage; The output covers some key aspects of the area but misses significant lines of research or focuses too narrowly on a few sources. It lacks a well-rounded view and fails to adequately represent the diversity of work in the field.\\n Limited Amount of Information; The response provides some relevant information but leaves out important details that would help in understanding the topic fully. ",
+        "score3_description": "Acceptable Coverage; The output discusses several representative works and provides a satisfactory overview of the area. However, including more papers or discussion points could enhance the answer significantly. It addresses the core aspects of the question but may miss some details.\\n Acceptable  Amount of Relevant Information; The output provides a reasonable amount of relevant information, though it may lack some helpful details.  ",
+        "score4_description": "Good Coverage; The output offers good coverage of the area, discussing a variety of representative papers and sources. While it provides a broad overview, it may miss a few minor areas or additional papers that could enhance the comprehensiveness.\\n Mostly Sufficient Amount of Information; The response includes most of the necessary and relevant information to understand the topic. It avoids excessive irrelevant details, but a few points might benefit from deeper exploration or more specific examples.",
+        "score5_description": "Comprehensive and Exceptional Coverage; The answer covers a diverse range of papers and viewpoints, offering a thorough overview of the area. It includes additional important discussion points not explicitly mentioned in the original question.\\n Necessary and Sufficient Amount of Information; The response provides all necessary and sufficient information, presenting it clearly without including irrelevant details that do not enhance the overall understanding.",
+        "use_title": true,
+        "use_docs": false,
+        "aspect": "coverage"
+    },
+    {
+        "criteria_description": "Relevance and Focus: Does the response stay on topic and maintain a clear focus to provide useful response to the question?",
+        "score1_description": "Off-topic; the content significantly deviates from the original question, making it difficult to discern its relevance or distract the user",
+        "score2_description": "Frequently Off-Topic with Limited Focus; The response addresses the question to some extent but often strays off-topic. There are several sections with irrelevant information or tangential points that do not contribute to answering the main question. These distractions make it difficult to maintain a clear focus and reduce the overall usefulness of the response. ",
+        "score3_description": "Somewhat on topic but with several digressions or irrelevant information; while the response still centers around the original question, there are frequent deviations that distract from the main question or redundant information.",
+        "score4_description": "Mostly On-Topic with Minor Deviations; The response stays largely on-topic, with a clear focus on addressing the question. However, there may be a few minor digressions or slightly irrelevant details that momentarily detract from the main focus. These deviations are infrequent and do not significantly undermine the overall clarity or usefulness of the response.",
+        "score5_description": "Exceptionally focused and entirely on topic; the response remains tightly centered on the subject matter with enough depth and coverage of the core information, with every piece of information contributing directly to a comprehensive understanding of the topic.",
+        "use_title": false,
+        "use_docs": false,
+        "aspect": "relevance"
+    }
+]
